@@ -11,25 +11,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=280&section=header&text=Ibrahim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=22&descAlignY=65&descColor=00ffd1&stroke=00d9ff&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00FFD1&center=true&vCenter=true&random=false&width=640&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions+%F0%9F%8F%97%EF%B8%8F;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.+%F0%9F%9A%80;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+stage+%F0%9F%8C%8D;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%94%A5%22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00FFD1&center=true&vCenter=true&random=false&width=640&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.+%F0%9F%9A%80;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+stage;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%94%A5%22" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://github.com/DevXIbrahim">
-  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=0d1117&style=for-the-badge&label=👁️ PROFILE VIEWS&abbreviated=true"/>
-</a>
-<a href="https://github.com/DevXIbrahim?tab=followers">
-  <img src="https://img.shields.io/github/followers/DevXIbrahim?color=0d1117&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</a>
-<img src="https://img.shields.io/badge/✅ STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📍 LOCATION-DHAKA%2C%20BD-ffe066?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<!-- Separator line -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/DevXIbrahim?color=ff006e&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-DHAKA%20BD-ffe066?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ffe066"/>
 
 </div>
+
+<br/>
 <!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=1000&color=555555&center=true&vCenter=true&width=400&height=25&lines=%2F%2F+Loading+developer+profile...;%2F%2F+Compiling+awesome+stuff...;%2F%2F+Ready+to+ship+%F0%9F%9A%80" />
