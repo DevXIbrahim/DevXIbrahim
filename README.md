@@ -1,37 +1,26 @@
-<!--
-  ██████╗ ███████╗██╗   ██╗██╗  ██╗    ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗
-  ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝    ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║
-  ██║  ██║█████╗  ██║   ██║ ╚███╔╝     ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗     ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║
-  ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║
-  ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-  README crafted with precision · DevXIbrahim · Dhaka BD
--->
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  DEVXIBRAHIM — GITHUB PROFILE README                -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<!-- ══════════════════════════════════════════════════════════════
-     HERO BANNER — base64 embedded SVG, zero external dependency
-══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjI4MCIgdmlld0JveD0iMCAwIDEyMDAgMjgwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNDUlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGEyYTRhIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNzUlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAxYTJlIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzBkMTExNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibmFtZUdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAwZDlmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3R5bGU9InN0b3AtY29sb3I6I2ZmZmZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZjAwNmUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVHcmFkIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMGQ5ZmY7c3RvcC1vcGFjaXR5OjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIzMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMGQ5ZmY7c3RvcC1vcGFjaXR5OjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI3MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmZjAwNmU7c3RvcC1vcGFjaXR5OjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZmYwMDZlO3N0b3Atb3BhY2l0eTowIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTIwJSIgeT0iLTIwJSIgd2lkdGg9IjE0MCUiIGhlaWdodD0iMTQwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT48ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz48ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz48L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICAgIDxmaWx0ZXIgaWQ9InNvZnRnbG93IiB4PSItNTAlIiB5PSItNTAlIiB3aWR0aD0iMjAwJSIgaGVpZ2h0PSIyMDAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMTgiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT48ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz48ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz48L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyODAiIGZpbGw9InVybCgjYmcpIi8+CgogIDwhLS0gQW1iaWVudCBnbG93IG9yYnMgLS0+CiAgPGVsbGlwc2UgY3g9IjIwMCIgY3k9IjE0MCIgcng9IjMwMCIgcnk9IjIwMCIgZmlsbD0iIzAwZDlmZiIgb3BhY2l0eT0iMC4wNCIgZmlsdGVyPSJ1cmwoI3NvZnRnbG93KSIvPgogIDxlbGxpcHNlIGN4PSIxMDAwIiBjeT0iMTQwIiByeD0iMzAwIiByeT0iMjAwIiBmaWxsPSIjZmYwMDZlIiBvcGFjaXR5PSIwLjA1IiBmaWx0ZXI9InVybCgjc29mdGdsb3cpIi8+CiAgPGVsbGlwc2UgY3g9IjYwMCIgY3k9IjgwIiByeD0iMjUwIiByeT0iMTAwIiBmaWxsPSIjN2MzYWVkIiBvcGFjaXR5PSIwLjA0IiBmaWx0ZXI9InVybCgjc29mdGdsb3cpIi8+CgogIDwhLS0gR3JpZCBsaW5lcyBob3Jpem9udGFsIC0tPgogIDxnIHN0cm9rZT0iIzAwZDlmZiIgc3Ryb2tlLXdpZHRoPSIwLjQiIG9wYWNpdHk9IjAuMDciPgogICAgPGxpbmUgeDE9IjAiIHkxPSI2MCIgeDI9IjEyMDAiIHkyPSI2MCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIxMjAiIHgyPSIxMjAwIiB5Mj0iMTIwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjE4MCIgeDI9IjEyMDAiIHkyPSIxODAiLz4KICAgIDxsaW5lIHgxPSIwIiB5MT0iMjQwIiB4Mj0iMTIwMCIgeTI9IjI0MCIvPgogIDwvZz4KICA8IS0tIEdyaWQgbGluZXMgdmVydGljYWwgLS0+CiAgPGcgc3Ryb2tlPSIjMDBkOWZmIiBzdHJva2Utd2lkdGg9IjAuNCIgb3BhY2l0eT0iMC4wNSI+CiAgICA8bGluZSB4MT0iMTUwIiB5MT0iMCIgeDI9IjE1MCIgeTI9IjI4MCIvPgogICAgPGxpbmUgeDE9IjMwMCIgeTE9IjAiIHgyPSIzMDAiIHkyPSIyODAiLz4KICAgIDxsaW5lIHgxPSI0NTAiIHkxPSIwIiB4Mj0iNDUwIiB5Mj0iMjgwIi8+CiAgICA8bGluZSB4MT0iNjAwIiB5MT0iMCIgeDI9IjYwMCIgeTI9IjI4MCIvPgogICAgPGxpbmUgeDE9Ijc1MCIgeTE9IjAiIHgyPSI3NTAiIHkyPSIyODAiLz4KICAgIDxsaW5lIHgxPSI5MDAiIHkxPSIwIiB4Mj0iOTAwIiB5Mj0iMjgwIi8+CiAgICA8bGluZSB4MT0iMTA1MCIgeTE9IjAiIHgyPSIxMDUwIiB5Mj0iMjgwIi8+CiAgPC9nPgoKICA8IS0tIENvcm5lciBicmFja2V0cyAtLT4KICA8ZyBzdHJva2U9IiMwMGQ5ZmYiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIiBvcGFjaXR5PSIwLjUiPgogICAgPHBhdGggZD0iTTI1LDE4IEwyNSw1MCBMNTcsNTAiLz4KICAgIDxwYXRoIGQ9Ik0xMTc1LDE4IEwxMTc1LDUwIEwxMTQzLDUwIi8+CiAgICA8cGF0aCBkPSJNMjUsMjYyIEwyNSwyMzAgTDU3LDIzMCIvPgogICAgPHBhdGggZD0iTTExNzUsMjYyIEwxMTc1LDIzMCBMMTE0MywyMzAiLz4KICA8L2c+CgogIDwhLS0gRGVjb3JhdGl2ZSBkb3RzIC0tPgogIDxnIGZpbGw9IiMwMGQ5ZmYiIG9wYWNpdHk9IjAuMiI+CiAgICA8Y2lyY2xlIGN4PSI3MCIgY3k9IjcwIiByPSIyLjUiLz4KICAgIDxjaXJjbGUgY3g9IjkwIiBjeT0iOTUiIHI9IjEuNSIvPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSIxMDAiIHI9IjEuNSIvPgogICAgPGNpcmNsZSBjeD0iMTEwIiBjeT0iNjUiIHI9IjEiLz4KICAgIDxjaXJjbGUgY3g9IjExMzAiIGN5PSI3MCIgcj0iMi41Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMTEwIiBjeT0iOTUiIHI9IjEuNSIvPgogICAgPGNpcmNsZSBjeD0iMTE1MCIgY3k9IjEwMCIgcj0iMS41Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMDkwIiBjeT0iNjUiIHI9IjEiLz4KICA8L2c+CiAgPGcgZmlsbD0iI2ZmMDA2ZSIgb3BhY2l0eT0iMC4yIj4KICAgIDxjaXJjbGUgY3g9IjcwIiBjeT0iMjEwIiByPSIyLjUiLz4KICAgIDxjaXJjbGUgY3g9IjkwIiBjeT0iMTg1IiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iMTgwIiByPSIxLjUiLz4KICAgIDxjaXJjbGUgY3g9IjExMzAiIGN5PSIyMTAiIHI9IjIuNSIvPgogICAgPGNpcmNsZSBjeD0iMTExMCIgY3k9IjE4NSIgcj0iMS41Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMTUwIiBjeT0iMTgwIiByPSIxLjUiLz4KICA8L2c+CgogIDwhLS0gVG9wIG1pY3JvIGxhYmVsIC0tPgogIDx0ZXh0IHg9IjYwMCIgeT0iNTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSI4IiBmaWxsPSIjMDBkOWZmIiBvcGFjaXR5PSIwLjUiPuKWuCBGVUxMIFNUQUNLIERFVkVMT1BFUiDil4I8L3RleHQ+CgogIDwhLS0gTWFpbiBuYW1lIHdpdGggZ2xvdyAtLT4KICA8dGV4dCB4PSI2MDEiIHk9IjE1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidBcmlhbCBCbGFjaycsICdJbXBhY3QnLCBzYW5zLXNlcmlmIiBmb250LXNpemU9Ijk2IiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMTgiIGZpbGw9IiMwYTJhNGEiIG9wYWNpdHk9IjAuNiI+SUJSQUhJTTwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjE1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidBcmlhbCBCbGFjaycsICdJbXBhY3QnLCBzYW5zLXNlcmlmIiBmb250LXNpemU9Ijk2IiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMTgiIGZpbGw9InVybCgjbmFtZUdyYWQpIiBmaWx0ZXI9InVybCgjZ2xvdykiPklCUkFISU08L3RleHQ+CgogIDwhLS0gU3VidGl0bGUgbGluZSAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjE5MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxOCIgbGV0dGVyLXNwYWNpbmc9IjUiIGZpbGw9IiMwMGZmZDEiIG9wYWNpdHk9IjAuODUiPiZsdDsgRnVsbCBTdGFjayBEZXZlbG9wZXIgLyZndDs8L3RleHQ+CgogIDwhLS0gRGl2aWRlciBsaW5lIC0tPgogIDxyZWN0IHg9IjMwMCIgeT0iMjA4IiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjEuNSIgZmlsbD0idXJsKCNsaW5lR3JhZCkiIHJ4PSIxIi8+CgogIDwhLS0gQm90dG9tIHRhZ2xpbmUgLS0+CiAgPHRleHQgeD0iNjAwIiB5PSIyMzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInQ291cmllciBOZXcnLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTEiIGxldHRlci1zcGFjaW5nPSI1IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjI1Ij5ESEFLQSwgQkFOR0xBREVTSCDCtyBPUEVOIFRPIFdPUksgwrcgU0hJUFBJTkcgREFJTFk8L3RleHQ+CgogIDwhLS0gQm90dG9tIHdhdmUgc2hhcGVzIC0tPgogIDxwYXRoIGQ9Ik0wLDI1NSBDMjAwLDIzNSA0MDAsMjcwIDYwMCwyNTUgQzgwMCwyNDAgMTAwMCwyNjggMTIwMCwyNTIgTDEyMDAsMjgwIEwwLDI4MCBaIiBmaWxsPSIjMDBkOWZmIiBvcGFjaXR5PSIwLjA0Ii8+CiAgPHBhdGggZD0iTTAsMjY1IEMzMDAsMjQ4IDcwMCwyNzIgMTIwMCwyNTggTDEyMDAsMjgwIEwwLDI4MCBaIiBmaWxsPSIjZmYwMDZlIiBvcGFjaXR5PSIwLjA1Ii8+Cjwvc3ZnPgo=" width="100%" alt="Ibrahim — Full Stack Developer"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/DevXIbrahim?color=ff006e&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LOCATION-DHAKA%20BD-ffe066?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ffe066"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=1500&color=555555&center=true&vCenter=true&width=440&height=24&lines=%2F%2F+Loading+developer+profile...;%2F%2F+Compiling+awesome+stuff...;%2F%2F+Ready+to+ship+%F0%9F%9A%80;%2F%2F+Open+to+work+%E2%80%94+let%27s+build+together!" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=DevX%20Ibrahim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20the%20Web%2C%20One%20Line%20at%20a%20Time&descSize=15&descAlignY=65&descColor=aaaaaa" width="100%"/>
 
 </div>
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=550&height=40&lines=%3E+Full+Stack+Developer+%7C+JS+Ecosystem+Expert;%3E+React+%E2%9A%9B%EF%B8%8F+Node.js+%F0%9F%9F%A2+MongoDB+%F0%9F%8D%83;%3E+Building+products+that+actually+matter+%F0%9F%8E%AF;%3E+Open+to+collaborate+%26+contribute+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DevXIbrahim&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/DevXIbrahim)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/DevXIbrahim?style=flat-square&color=ff6e96&label=FOLLOWERS&labelColor=1a1a2e)](https://github.com/DevXIbrahim)
+&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/DevXIbrahim?style=flat-square&color=ffe066&labelColor=1a1a2e&label=YEARS+ON+GITHUB)](https://github.com/DevXIbrahim)
+
+</div>
 <br/>
 
 <table width="100%">
