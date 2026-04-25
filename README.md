@@ -8,10 +8,7 @@
 -->
 
 <!-- ══════════════════════════ HERO ══════════════════════════ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,70:00d9ff,100:ff006e&height=250&section=header&text=Ibrahim&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=20&descAlignY=65&descColor=00ffd1" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,70:00d9ff,100:ff006e&height=250&section=header&text=Ibrahim&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=20&descAlignY=65&descColor=00ffd1" width="100%"/>
 
