@@ -1,18 +1,24 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  DEVXIBRAHIM — GITHUB PROFILE README                -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevX%20Ibrahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20JS%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=DevX%20Ibrahim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20the%20Web%2C%20One%20Line%20at%20a%20Time&descSize=15&descAlignY=65&descColor=aaaaaa" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/DevXIbrahim">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ibrahim+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+Lover+%E2%9A%A1;Building+Cool+Stuff+Every+Day+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
-</a>
+</div>
 
-<!-- Profile Views + Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/DevXIbrahim?label=Followers&style=for-the-badge&color=orange&labelColor=black" alt="followers"/>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=550&height=40&lines=%3E+Full+Stack+Developer+%7C+JS+Ecosystem+Expert;%3E+React+%E2%9A%9B%EF%B8%8F+Node.js+%F0%9F%9F%A2+MongoDB+%F0%9F%8D%83;%3E+Building+products+that+actually+matter+%F0%9F%8E%AF;%3E+Open+to+collaborate+%26+contribute+%F0%9F%A4%9D" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DevXIbrahim&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/DevXIbrahim)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/DevXIbrahim?style=flat-square&color=ff6e96&label=FOLLOWERS&labelColor=1a1a2e)](https://github.com/DevXIbrahim)
+&nbsp;
+[![Years Badge](https://badges.pufler.dev/years/DevXIbrahim?style=flat-square&color=ffe066&labelColor=1a1a2e&label=YEARS+ON+GITHUB)](https://github.com/DevXIbrahim)
 
 </div>
 <br/>
