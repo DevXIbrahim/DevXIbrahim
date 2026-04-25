@@ -1,41 +1,18 @@
-<!--
-███████████████████████████████████████████████████████████████████████████
-  ██████╗ ███████╗██╗   ██╗██╗  ██╗    ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗
-  ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝    ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║
-  ██║  ██║█████╗  ██║   ██║ ╚███╔╝     ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║
-  ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗     ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║
-  ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║
-  ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-███████████████████████████████████████████████████████████████████████████
--->
-
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ibrahim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%3C%2F%3E%20Full%20Stack%20Engineer%20%7C%20JS%20Ecosystem%20%7C%20Dhaka%2C%20BD&descSize=15&descAlignY=78&descColor=5eead4&stroke=00d9ff&strokeWidth=2" width="100%"/>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevX%20Ibrahim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20JS%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=55&descSize=16"/>
 
-</div>
-
-<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
-
-<div align="center">
-
+<!-- Typing Animation -->
 <a href="https://github.com/DevXIbrahim">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00FFD1&center=true&vCenter=true&random=false&width=620&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+community;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%9A%80%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ibrahim+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Node.js+Lover+%E2%9A%A1;Building+Cool+Stuff+Every+Day+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<!-- Live Badges Row -->
-<a href="https://github.com/DevXIbrahim">
-  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=0d1117&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true" />
-</a>
-<a href="https://github.com/DevXIbrahim?tab=followers">
-  <img src="https://img.shields.io/github/followers/DevXIbrahim?color=0d1117&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS" />
-</a>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
-<img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6%20BST-blue?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=blue" />
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/DevXIbrahim?label=Followers&style=for-the-badge&color=orange&labelColor=black" alt="followers"/>
+</p>
 
 </div>
 <br/>
