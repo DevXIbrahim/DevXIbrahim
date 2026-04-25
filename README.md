@@ -5,14 +5,17 @@
   ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗     ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║
   ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║
   ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
+  README crafted with precision · DevXIbrahim · Dhaka BD
 -->
 
-<!-- ══════════════════════════ HERO ══════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+     HERO BANNER — SVG (no external service, always loads)
+══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="./ibrahim_banner.svg" width="100%"/>
+<img src="./ibrahim_banner.svg" width="100%" alt="Ibrahim — Full Stack Developer"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
 &nbsp;
@@ -22,9 +25,14 @@
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-DHAKA%20BD-ffe066?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ffe066"/>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=1500&color=555555&center=true&vCenter=true&width=440&height=24&lines=%2F%2F+Loading+developer+profile...;%2F%2F+Compiling+awesome+stuff...;%2F%2F+Ready+to+ship+%F0%9F%9A%80;%2F%2F+Open+to+work+%E2%80%94+let%27s+build+together!" alt="Typing SVG"/>
+
 </div>
 
 <br/>
+
 <!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=1000&color=555555&center=true&vCenter=true&width=400&height=25&lines=%2F%2F+Loading+developer+profile...;%2F%2F+Compiling+awesome+stuff...;%2F%2F+Ready+to+ship+%F0%9F%9A%80" />
