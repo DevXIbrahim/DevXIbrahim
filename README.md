@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,70:00d9ff,100:ff006e&height=250&section=header&text=Ibrahim&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=20&descAlignY=65&descColor=00ffd1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=800&color=00FFD1&center=true&vCenter=true&random=false&width=640&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.+%F0%9F%9A%80;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+stage;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%94%A5%22" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,70:00d9ff,100:ff006e&height=250&section=header&text=Ibrahim&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descSize=20&descAlignY=65&descColor=00ffd1" width="100%"/>
 
 <br/><br/>
 
