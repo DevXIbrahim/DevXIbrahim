@@ -1,24 +1,41 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                  DEVXIBRAHIM — GITHUB PROFILE README                -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!--
+███████████████████████████████████████████████████████████████████████████
+  ██████╗ ███████╗██╗   ██╗██╗  ██╗    ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗
+  ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝    ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║
+  ██║  ██║█████╗  ██║   ██║ ╚███╔╝     ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗     ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║
+  ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║
+  ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
+███████████████████████████████████████████████████████████████████████████
+-->
+
+<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=DevX%20Ibrahim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20the%20Web%2C%20One%20Line%20at%20a%20Time&descSize=15&descAlignY=65&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ibrahim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%3C%2F%3E%20Full%20Stack%20Engineer%20%7C%20JS%20Ecosystem%20%7C%20Dhaka%2C%20BD&descSize=15&descAlignY=78&descColor=5eead4&stroke=00d9ff&strokeWidth=2" width="100%"/>
 
 </div>
 
+<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=550&height=40&lines=%3E+Full+Stack+Developer+%7C+JS+Ecosystem+Expert;%3E+React+%E2%9A%9B%EF%B8%8F+Node.js+%F0%9F%9F%A2+MongoDB+%F0%9F%8D%83;%3E+Building+products+that+actually+matter+%F0%9F%8E%AF;%3E+Open+to+collaborate+%26+contribute+%F0%9F%A4%9D" alt="Typing SVG" />
+<a href="https://github.com/DevXIbrahim">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00FFD1&center=true&vCenter=true&random=false&width=620&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+community;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%9A%80%22" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DevXIbrahim&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/DevXIbrahim)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/DevXIbrahim?style=flat-square&color=ff6e96&label=FOLLOWERS&labelColor=1a1a2e)](https://github.com/DevXIbrahim)
-&nbsp;
-[![Years Badge](https://badges.pufler.dev/years/DevXIbrahim?style=flat-square&color=ffe066&labelColor=1a1a2e&label=YEARS+ON+GITHUB)](https://github.com/DevXIbrahim)
+<!-- Live Badges Row -->
+<a href="https://github.com/DevXIbrahim">
+  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=0d1117&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true" />
+</a>
+<a href="https://github.com/DevXIbrahim?tab=followers">
+  <img src="https://img.shields.io/github/followers/DevXIbrahim?color=0d1117&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS" />
+</a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6%20BST-blue?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=blue" />
 
 </div>
 <br/>
