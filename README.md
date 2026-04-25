@@ -1,73 +1,63 @@
 <!--
-███████████████████████████████████████████████████████████████████████████
   ██████╗ ███████╗██╗   ██╗██╗  ██╗    ██╗██████╗ ██████╗  █████╗ ██╗  ██╗██╗███╗   ███╗
   ██╔══██╗██╔════╝██║   ██║╚██╗██╔╝    ██║██╔══██╗██╔══██╗██╔══██╗██║  ██║██║████╗ ████║
   ██║  ██║█████╗  ██║   ██║ ╚███╔╝     ██║██████╔╝██████╔╝███████║███████║██║██╔████╔██║
   ██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗     ██║██╔══██╗██╔══██╗██╔══██║██╔══██║██║██║╚██╔╝██║
   ██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗    ██║██████╔╝██║  ██║██║  ██║██║  ██║██║██║ ╚═╝ ██║
   ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝    ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
-███████████████████████████████████████████████████████████████████████████
 -->
 
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
+<!-- ══════════════════════════ HERO ══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ibrahim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%3C%2F%3E%20Full%20Stack%20Engineer%20%7C%20JS%20Ecosystem%20%7C%20Dhaka%2C%20BD&descSize=15&descAlignY=78&descColor=5eead4&stroke=00d9ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:00d9ff,100:ff006e&height=220&section=header&text=Hey%2C%20I%27m%20Ibrahim%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB%20%7C%20Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=14&descAlignY=68&descColor=5eead4" width="100%"/>
 
-</div>
-
-<!-- ═══════════════════ ANIMATED TYPING ═══════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/DevXIbrahim">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00FFD1&center=true&vCenter=true&random=false&width=620&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+community;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%9A%80%22" />
-</a>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00FFD1&center=true&vCenter=true&random=false&width=620&height=45&lines=%E2%96%B6+Architecting+scalable+full-stack+solutions;%E2%96%B6+React+18+%7C+Node.js+%7C+MongoDB+%7C+TypeScript;%E2%96%B6+Clean+Code.+Bold+Ideas.+Relentless+Execution.+%F0%9F%9A%80;%E2%96%B6+From+Dhaka+%F0%9F%87%A7%F0%9F%87%A9+to+the+global+dev+stage;%E2%96%B6+git+commit+-m+%22another+banger+dropped+%F0%9F%94%A5%22" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- Live Badges Row -->
-<a href="https://github.com/DevXIbrahim">
-  <img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=0d1117&style=for-the-badge&label=👁️+PROFILE+VIEWS&abbreviated=true" />
-</a>
-<a href="https://github.com/DevXIbrahim?tab=followers">
-  <img src="https://img.shields.io/github/followers/DevXIbrahim?color=0d1117&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS" />
-</a>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
-<img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6%20BST-blue?style=for-the-badge&labelColor=0d1117&logo=clockify&logoColor=blue" />
+<!-- Live Stats Badges -->
+<img src="https://komarev.com/ghpvc/?username=DevXIbrahim&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/DevXIbrahim?color=ff006e&labelColor=0d1117&style=for-the-badge&logo=github&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-%2300ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-DHAKA%20BD-%23ffe066?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ffe066"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ABOUT + GIF ═══════════════════ -->
+<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
 
-<img align="right" width="310" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```javascript
 /**
  * @author   Ibrahim
  * @alias    DevXIbrahim
  * @location Dhaka, Bangladesh 🇧🇩
+ * @timezone UTC+6 (BST)
  */
 
 const developer = {
-  name     : "Ibrahim",
-  role     : "Full Stack Developer",
-  stack    : ["JavaScript", "TypeScript", "React",
-              "Next.js", "Node.js", "Express", "MongoDB"],
+  name  : "Ibrahim",
+  role  : "Full Stack Developer",
+  stack : ["JavaScript", "TypeScript", "React",
+           "Next.js", "Node.js", "Express", "MongoDB"],
 
-  currentFocus : [
-    "⚡  Building production-grade web apps",
+  currentFocus: [
+    "⚡  Shipping production-grade web apps",
     "📐  Mastering system design patterns",
-    "🔐  Exploring auth, security & scalability",
-    "🌐  Contributing to open source",
+    "🔐  Auth, security & scalability deep dives",
+    "🌐  Contributing to open source projects",
   ],
 
-  architecture : ["MVC", "REST", "MicroServices"],
-  databases    : ["MongoDB", "MySQL", "Firebase"],
-  devOps       : ["Docker", "Git", "Vercel", "Nginx"],
+  architecture : ["MVC", "REST", "Microservices"],
+  devOps       : ["Docker", "Git", "Vercel", "CI/CD"],
 
   funFacts: {
     superpower : "Turning coffee into clean code ☕",
@@ -79,58 +69,62 @@ const developer = {
 
 <br clear="right"/>
 
-<!-- ═══════════════════ ANIMATED DIVIDER ═══════════════════ -->
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ SKILL ICONS (beautiful grid) ═══════════════════ -->
+<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Tech Arsenal
 
 <div align="center">
 
-### ⚡ Languages & Runtimes
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css&theme=dark&perline=5" /></a>
+**⚡ Languages & Runtimes**
 
-### 🎨 Frontend Ecosystem
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,framer&theme=dark&perline=6" /></a>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css&theme=dark&perline=5"/>
 
-### 🛠️ Backend & APIs
-<a href="#"><img src="https://skillicons.dev/icons?i=express,graphql,socketio,jest,nginx&theme=dark&perline=5" /></a>
+**🎨 Frontend Ecosystem**
 
-### 🗄️ Databases & Cloud
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,vercel,netlify&theme=dark&perline=6" /></a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,framer&theme=dark&perline=6"/>
 
-### 🔧 DevOps & Tools
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux&theme=dark&perline=7" /></a>
+**🛠️ Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=express,graphql,jest,nginx,firebase&theme=dark&perline=5"/>
+
+**🗄️ Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,vercel,netlify&theme=dark&perline=5"/>
+
+**🔧 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma,linux&theme=dark&perline=7"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ REAL-TIME GITHUB STATS ═══════════════════ -->
+<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Real-Time GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Real-Time GitHub Stats
 
 <div align="center">
 
-<!-- Row 1: Main Stats + Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevXIbrahim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff006e&custom_title=Ibrahim's+GitHub+Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXIbrahim&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&text_color=c9d1d9&langs_count=8&custom_title=Languages+I+Speak" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DevXIbrahim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff006e&custom_title=Ibrahim's+GitHub+Stats"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXIbrahim&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
 
-<br/>
+</div>
 
-<!-- Row 2: Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=DevXIbrahim&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00ffd1&fire=ff006e&currStreakLabel=00ffd1&sideNums=00d9ff&sideLabels=888&dates=666&stroke=00d9ff&border=00d9ff" />
+<div align="center">
+
+<img width="68%" src="https://streak-stats.demolab.com/?user=DevXIbrahim&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00ffd1&fire=ff006e&currStreakLabel=00ffd1&sideNums=00d9ff&sideLabels=888888&dates=666666"/>
 
 </div>
 
 <br/>
 
-<!-- Row 3: Summary Cards (4-panel) -->
+<!-- Profile Summary Cards -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXIbrahim&theme=tokyo_night" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXIbrahim&theme=tokyo_night" width="97%"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXIbrahim&theme=tokyo_night" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXIbrahim&theme=tokyo_night" width="32%"/>
@@ -140,75 +134,92 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ 3D CONTRIBUTION GRAPH ═══════════════════ -->
-
-## 🌐 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution Graph"/>
-
-> ⚙️ **Setup:** Add the [3D contrib GitHub Action](https://github.com/yoshi389111/github-profile-3d-contrib) to generate this live.
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+<!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevXIbrahim&bg_color=0d1117&color=00ffd1&line=00d9ff&point=ff006e&area=true&area_color=00d9ff20&hide_border=true&custom_title=DevXIbrahim's+Contribution+Graph&radius=8" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevXIbrahim&bg_color=0d1117&color=00ffd1&line=00d9ff&point=ff006e&area=true&area_color=00d9ff20&hide_border=true&custom_title=DevXIbrahim's+Contribution+Graph&radius=8" width="97%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
 
 ## 🏆 Achievement Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevXIbrahim&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevXIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
+<!-- ══════════════════════════ SNAKE — SETUP REQUIRED ══════════════════════════ -->
 
-## 🐍 Eating My Contributions
+## 🐍 Devouring Contributions
 
 <div align="center">
+
+<!-- After setting up the snake GitHub Action, this will render live -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" width="97%"
+    src="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> ⚙️ **Setup:** Add [Platane/snk](https://github.com/Platane/snk) GitHub Action to generate this live.
+<br/>
+
+<details>
+<summary><b>⚙️ Click to activate Snake Animation</b></summary>
+<br/>
+
+**Step 1** — In your profile repo, go to `Actions` → `New workflow` → `set up a workflow yourself`
+
+**Step 2** — Paste this YAML and save as `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3** — Run the workflow manually once. Done! 🎉
+
+</details>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ CODING TIME (WakaTime) ═══════════════════ -->
-
-## ⏱️ Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   ██████████████░░░░░░░░   54.3%
-TypeScript   ██████░░░░░░░░░░░░░░░░   22.1%
-CSS          ███░░░░░░░░░░░░░░░░░░░   11.8%
-JSON         ██░░░░░░░░░░░░░░░░░░░░    7.4%
-Markdown     █░░░░░░░░░░░░░░░░░░░░░    4.4%
-```
-<!--END_SECTION:waka-->
-
-> ⚙️ **Setup:** Connect [WakaTime](https://wakatime.com) + add the [waka-readme](https://github.com/athul/waka-readme) Action for live coding stats.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ CURRENTLY BUILDING ═══════════════════ -->
+<!-- ══════════════════════════ CURRENTLY BUILDING ══════════════════════════ -->
 
 ## 🔨 Currently Building
 
@@ -216,36 +227,36 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░░ 
 
 | Project | Stack | Status | Progress |
 |:--------|:------|:------:|:---------|
-| 🛒 **E-Commerce Platform** | React · Node · MongoDB | `Active` | ████████░░ 80% |
-| 💬 **Real-time Chat App** | Socket.io · React · Redis | `Active` | ██████░░░░ 60% |
-| 📊 **Analytics Dashboard** | Next.js · Chart.js · REST | `Planning` | ███░░░░░░░ 30% |
-| 🔐 **Auth Microservice** | Node · JWT · Docker | `Active` | █████░░░░░ 50% |
+| 🛒 **E-Commerce Platform** | React · Node · MongoDB | ![Active](https://img.shields.io/badge/-Active-00ff88?style=flat-square&labelColor=0d1117) | `████████░░` 80% |
+| 💬 **Real-time Chat App** | Socket.io · React · Redis | ![Active](https://img.shields.io/badge/-Active-00ff88?style=flat-square&labelColor=0d1117) | `██████░░░░` 60% |
+| 📊 **Analytics Dashboard** | Next.js · Chart.js | ![Planning](https://img.shields.io/badge/-Planning-ffe066?style=flat-square&labelColor=0d1117) | `███░░░░░░░` 30% |
+| 🔐 **Auth Microservice** | Node · JWT · Docker | ![Active](https://img.shields.io/badge/-Active-00ff88?style=flat-square&labelColor=0d1117) | `█████░░░░░` 50% |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ LEARNING ROADMAP ═══════════════════ -->
+<!-- ══════════════════════════ DEV JOURNEY ══════════════════════════ -->
 
 ## 🧭 Dev Journey
 
 ```
- PAST ──────────────────────────────────────────────────── NOW ──▶ FUTURE
+ START ────────────────────────────────────────────────────────────▶ NOW
 
-  [HTML/CSS]──▶[JavaScript]──▶[React]──▶[Node.js]──▶[MongoDB]──▶[TypeScript]
-       │              │            │           │            │            │
-    Basics       ES6+/DOM      Hooks/      REST/        NoSQL       Strict
-    Layout       Async/Await   Context    Express      Mongoose      Types
-                                          Auth          Aggregation  Generics
+  [HTML/CSS] ──▶ [JavaScript] ──▶ [React] ──▶ [Node.js] ──▶ [TypeScript]
+      │                │               │             │               │
+   Layouts          ES6/DOM         Hooks/         REST/          Strong
+   Flexbox        Async/Await      Context        Express          Types
+   Grid           Fetch API         Redux          Auth            Generics
 
-  ──▶ [Next.js] ──▶ [Docker] ──▶ [System Design] ──▶ [AWS/Cloud] ──▶ 🌟
-       App Router    Containers   Scalability          Deployment    Expert
-       SSR/SSG       CI/CD        Microservices        CDN/S3
+  ──▶ [MongoDB] ──▶ [Next.js] ──▶ [Docker] ──▶ [System Design] ──▶ 🌟
+       NoSQL         App Router    Containers    Scalability       Expert
+       Mongoose      SSR/SSG       CI/CD         Microservices     Level
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ DYNAMIC QUOTE ═══════════════════ -->
+<!-- ══════════════════════════ QUOTES + JOKES ══════════════════════════ -->
 
 ## 💭 Today's Dev Wisdom
 
@@ -253,26 +264,26 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░░ 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="80%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2300ffd1&aColor=%2300d9ff" width="60%" alt="Jokes Card"/>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2300ffd1&aColor=%2300d9ff" width="60%" alt="Dev Joke"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<!-- ══════════════════════════ CONNECT ══════════════════════════ -->
 
-## 📡 Let's Connect
+## 📡 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://linkedin.com/in/DevXIbrahim">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://twitter.com/DevXIbrahim">
-  <img src="https://img.shields.io/badge/Twitter-Follow%20%40DevXIbrahim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="mailto:devxibrahim@gmail.com">
@@ -286,47 +297,32 @@ Markdown     █░░░░░░░░░░░░░░░░░░░░░ 
 </a>
 &nbsp;
 <a href="https://facebook.com/DevXIbrahim">
-  <img src="https://img.shields.io/badge/Facebook-DevXIbrahim-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
-<!-- Animated connect message -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=666666&center=true&vCenter=true&width=500&height=30&lines=Always+open+to+interesting+projects+%26+ideas+💡;Let's+build+something+amazing+together+🤝;DMs+are+open+—+don't+be+a+stranger+👋" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=2000&color=555555&center=true&vCenter=true&width=480&height=28&lines=Always+open+to+interesting+projects+%26+ideas+%F0%9F%92%A1;Let%27s+build+something+amazing+together+%F0%9F%A4%9D;DMs+are+open+%E2%80%94+don%27t+be+a+stranger+%F0%9F%91%8B"/>
 
 </div>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
 <br/>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│    "First, solve the problem. Then, write the code."                │
-│                                                          — IBR      │
-│                                                                     │
-│    DevXIbrahim  ·  Full Stack Developer  ·  Dhaka, Bangladesh 🇧🇩   │
-│    Building in public. Learning in public. Shipping every day. 🚀   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   "First, solve the problem. Then, write the code."              │
+│                                                                  │
+│   DevXIbrahim  ·  Full Stack Dev  ·  Dhaka, Bangladesh 🇧🇩       │
+│   Building in public. Learning in public. Shipping every day 🚀  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=5eead4&animation=twinkling&fontAlignY=70&desc=⭐%20Star%20repos%20you%20find%20useful!%20It%20helps%20a%20lot.&descSize=13&descColor=666666&descAlignY=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:00d9ff,100:0d1117&height=130&section=footer&text=Thanks+for+visiting!&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=68&desc=⭐+Star+repos+you+find+useful+—+it+really+helps!&descSize=12&descColor=888888&descAlignY=88"/>
 
 </div>
-
-<!--
-══════════════════════════════════════════════════════════════
-  🔧 GITHUB ACTIONS SETUP CHECKLIST (to activate live features)
-══════════════════════════════════════════════════════════════
-
-  □  Snake animation    → github.com/Platane/snk
-  □  3D Contribution    → github.com/yoshi389111/github-profile-3d-contrib
-  □  WakaTime stats     → github.com/athul/waka-readme
-     (connect WakaTime to VS Code first via wakatime.com)
-
-══════════════════════════════════════════════════════════════
--->
