@@ -32,8 +32,15 @@
 <br/>
 
 <!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&pause=1000&color=555555&center=true&vCenter=true&width=400&height=25&lines=%2F%2F+Loading+developer+profile...;%2F%2F+Compiling+awesome+stuff...;%2F%2F+Ready+to+ship+%F0%9F%9A%80" />
+</div>
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
 ```javascript
 /**
@@ -67,12 +74,27 @@ const developer = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="42%" valign="top" align="center">
 
-<!-- Animated Divider -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%"/>
+
+<br/><br/>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Tech Arsenal
 
