@@ -124,11 +124,8 @@ const developer = {
 <!-- Profile Summary Cards -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXIbrahim&theme=tokyo_night" width="97%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevXIbrahim&theme=tokyo_night" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevXIbrahim&theme=tokyo_night" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevXIbrahim&theme=tokyo_night&utcOffset=6" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevXIbrahim&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&icon_color=00d9ff&text_color=c9d1d9&custom_title=Ibrahim's+GitHub+Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXIbrahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 </div>
 
