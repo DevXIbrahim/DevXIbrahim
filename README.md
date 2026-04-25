@@ -172,49 +172,6 @@ const developer = {
     src="https://raw.githubusercontent.com/DevXIbrahim/DevXIbrahim/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-<br/>
-
-<details>
-<summary><b>⚙️ Click to activate Snake Animation</b></summary>
-<br/>
-
-**Step 1** — In your profile repo, go to `Actions` → `New workflow` → `set up a workflow yourself`
-
-**Step 2** — Paste this YAML and save as `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3** — Run the workflow manually once. Done! 🎉
-
-</details>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
