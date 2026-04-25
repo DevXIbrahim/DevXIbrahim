@@ -147,7 +147,14 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevXIbrahim&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevXIbrahim&show_icons=true&hide=stars,prs,issues&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd1&icon_color=ff006e&text_color=c9d1d9&custom_title=GitHub+Achievements" width="55%"/>
+
+<br/><br/>
+
+![Commits](https://img.shields.io/badge/Total%20Commits-3-00ffd1?style=for-the-badge&labelColor=0d1117&logo=git)
+![Repos](https://img.shields.io/badge/Public%20Repos-1-00d9ff?style=for-the-badge&labelColor=0d1117&logo=github)
+![Stars](https://img.shields.io/badge/Stars%20Earned-0-ff006e?style=for-the-badge&labelColor=0d1117&logo=star)
+![Followers](https://img.shields.io/github/followers/DevXIbrahim?style=for-the-badge&label=Followers&color=ffe066&labelColor=0d1117&logo=github)
 
 </div>
 
